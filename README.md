@@ -17,7 +17,7 @@ How to use it:
    - `trained_path` is the folder where the network weights will be saved after training.
 5. To evaluate the system, run the command: `python evaluate.py trained_path image_path` with the path to the pretrained weights generated from step 4, and the path to the images generated from step 3.
 
-# Εργασία στο μάθημα: Επεξεργασία Ομιλίας και ήχου
+# Εργασία στο μάθημα: Επεξεργασία Ομιλίας και Ήχου
 ## Συγγραφέας: Ηλίας Τζανής
 
 ## Εισαγωγή 
